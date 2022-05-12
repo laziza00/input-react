@@ -1,0 +1,15 @@
+.App {
+
+  justify-content: center;
+  margin: 40px;
+}
+.userOutput {
+  border-radius: 10px;
+  border: 1px solid #888;
+  margin: 10px 0;
+}
+.input {
+  width: 50%;
+  border-radius: 10px;
+  padding: 15px;
+}
